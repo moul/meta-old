@@ -184,3 +184,246 @@
 [submodule "github-art"]
 	path = github-art
 	url = https://github.com/moul/github-art.git
+[submodule "github-art-data"]
+	path = github-art-data
+	url = https://github.com/moul/github-art-data.git
+[submodule "gitlab-docker"]
+	path = gitlab-docker
+	url = https://github.com/moul/gitlab-docker.git
+[submodule "gitlab-issues"]
+	path = gitlab-issues
+	url = https://github.com/moul/gitlab-issues.git
+[submodule "gitlabhq"]
+	path = gitlabhq
+	url = https://github.com/moul/gitlabhq.git
+[submodule "go-dl-extract"]
+	path = go-dl-extract
+	url = https://github.com/moul/go-dl-extract.git
+[submodule "gocryptodev"]
+	path = gocryptodev
+	url = https://github.com/moul/gocryptodev.git
+[submodule "gorobot"]
+	path = gorobot
+	url = https://github.com/moul/gorobot.git
+[submodule "gridImage"]
+	path = gridImage
+	url = https://github.com/moul/gridImage.git
+[submodule "hackathon"]
+	path = hackathon
+	url = https://github.com/moul/hackathon.git
+[submodule "homebrew-cask"]
+	path = homebrew-cask
+	url = https://github.com/moul/homebrew-cask.git
+[submodule "homebrew-liquidsoap"]
+	path = homebrew-liquidsoap
+	url = https://github.com/moul/homebrew-liquidsoap.git
+[submodule "hosting-comparison"]
+	path = hosting-comparison
+	url = https://github.com/moul/hosting-comparison.git
+[submodule "image-blender"]
+	path = image-blender
+	url = https://github.com/moul/image-blender.git
+[submodule "imgbase"]
+	path = imgbase
+	url = https://github.com/moul/imgbase.git
+[submodule "iocat"]
+	path = iocat
+	url = https://github.com/moul/iocat.git
+[submodule "IRCCloud-Dark"]
+	path = IRCCloud-Dark
+	url = https://github.com/moul/IRCCloud-Dark.git
+[submodule "jquery-rocket"]
+	path = jquery-rocket
+	url = https://github.com/moul/jquery-rocket.git
+[submodule "jquery.dziviewer.js"]
+	path = jquery.dziviewer.js
+	url = https://github.com/moul/jquery.dziviewer.js.git
+[submodule "jslogo"]
+	path = jslogo
+	url = https://github.com/moul/jslogo.git
+[submodule "jsPingTester"]
+	path = jsPingTester
+	url = https://github.com/moul/jsPingTester.git
+[submodule "junk"]
+	path = junk
+	url = https://github.com/moul/junk.git
+[submodule "libdebugfs"]
+	path = libdebugfs
+	url = https://github.com/moul/libdebugfs.git
+[submodule "licenjs"]
+	path = licenjs
+	url = https://github.com/moul/licenjs.git
+[submodule "liquidsoap-controler"]
+	path = liquidsoap-controler
+	url = https://github.com/moul/liquidsoap-controler.git
+[submodule "loto-bingo"]
+	path = loto-bingo
+	url = https://github.com/moul/loto-bingo.git
+[submodule "m.42.am"]
+	path = m.42.am
+	url = https://github.com/moul/m.42.am.git
+[submodule "magnetoscope.js"]
+	path = magnetoscope.js
+	url = https://github.com/moul/magnetoscope.js.git
+[submodule "man-fred.7"]
+	path = man-fred.7
+	url = https://github.com/moul/man-fred.7.git
+[submodule "manfredctl"]
+	path = manfredctl
+	url = https://github.com/moul/manfredctl.git
+[submodule "mbin"]
+	path = mbin
+	url = https://github.com/moul/mbin.git
+[submodule "meta"]
+	path = meta
+	url = https://github.com/moul/meta.git
+[submodule "morganfreeman"]
+	path = morganfreeman
+	url = https://github.com/moul/morganfreeman.git
+[submodule "moul-dashboards"]
+	path = moul-dashboards
+	url = https://github.com/moul/moul-dashboards.git
+[submodule "moul.github.com"]
+	path = moul.github.com
+	url = https://github.com/moul/moul.github.com.git
+[submodule "mxs.sbrk.org"]
+	path = mxs.sbrk.org
+	url = https://github.com/moul/mxs.sbrk.org.git
+[submodule "node-alfred-workflow"]
+	path = node-alfred-workflow
+	url = https://github.com/moul/node-alfred-workflow.git
+[submodule "node-boursorama"]
+	path = node-boursorama
+	url = https://github.com/moul/node-boursorama.git
+[submodule "node-epitech-intranet"]
+	path = node-epitech-intranet
+	url = https://github.com/moul/node-epitech-intranet.git
+[submodule "node-fantomo"]
+	path = node-fantomo
+	url = https://github.com/moul/node-fantomo.git
+[submodule "node-freebox-player"]
+	path = node-freebox-player
+	url = https://github.com/moul/node-freebox-player.git
+[submodule "node-freemobile"]
+	path = node-freemobile
+	url = https://github.com/moul/node-freemobile.git
+[submodule "node-freewifi"]
+	path = node-freewifi
+	url = https://github.com/moul/node-freewifi.git
+[submodule "node-icecast-admin"]
+	path = node-icecast-admin
+	url = https://github.com/moul/node-icecast-admin.git
+[submodule "node-leboncoin"]
+	path = node-leboncoin
+	url = https://github.com/moul/node-leboncoin.git
+[submodule "node-liquidsoap"]
+	path = node-liquidsoap
+	url = https://github.com/moul/node-liquidsoap.git
+[submodule "node-manfred-touron"]
+	path = node-manfred-touron
+	url = https://github.com/moul/node-manfred-touron.git
+[submodule "node-netsoul"]
+	path = node-netsoul
+	url = https://github.com/moul/node-netsoul.git
+[submodule "node-onlinelabs"]
+	path = node-onlinelabs
+	url = https://github.com/moul/node-onlinelabs.git
+[submodule "node-onlinenet"]
+	path = node-onlinenet
+	url = https://github.com/moul/node-onlinenet.git
+[submodule "node-slumber"]
+	path = node-slumber
+	url = https://github.com/moul/node-slumber.git
+[submodule "node-tail"]
+	path = node-tail
+	url = https://github.com/moul/node-tail.git
+[submodule "node-wireless-osx"]
+	path = node-wireless-osx
+	url = https://github.com/moul/node-wireless-osx.git
+[submodule "node-xbmc"]
+	path = node-xbmc
+	url = https://github.com/moul/node-xbmc.git
+[submodule "ocs-botnet"]
+	path = ocs-botnet
+	url = https://github.com/moul/ocs-botnet.git
+[submodule "ocs-botnet-agent"]
+	path = ocs-botnet-agent
+	url = https://github.com/moul/ocs-botnet-agent.git
+[submodule "ocs-botnet-server"]
+	path = ocs-botnet-server
+	url = https://github.com/moul/ocs-botnet-server.git
+[submodule "ocs-image-bench"]
+	path = ocs-image-bench
+	url = https://github.com/moul/ocs-image-bench.git
+[submodule "ocs-image-devbox"]
+	path = ocs-image-devbox
+	url = https://github.com/moul/ocs-image-devbox.git
+[submodule "ocs-image-plan9port"]
+	path = ocs-image-plan9port
+	url = https://github.com/moul/ocs-image-plan9port.git
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = https://github.com/moul/oh-my-zsh.git
+[submodule "onlabs"]
+	path = onlabs
+	url = https://github.com/moul/onlabs.git
+[submodule "port-docker-image"]
+	path = port-docker-image
+	url = https://github.com/moul/port-docker-image.git
+[submodule "prettytable-extras"]
+	path = prettytable-extras
+	url = https://github.com/moul/prettytable-extras.git
+[submodule "prohub"]
+	path = prohub
+	url = https://github.com/moul/prohub.git
+[submodule "PyBorg"]
+	path = PyBorg
+	url = https://github.com/moul/PyBorg.git
+[submodule "rootbuilder"]
+	path = rootbuilder
+	url = https://github.com/moul/rootbuilder.git
+[submodule "sayosxapi"]
+	path = sayosxapi
+	url = https://github.com/moul/sayosxapi.git
+[submodule "splitfs"]
+	path = splitfs
+	url = https://github.com/moul/splitfs.git
+[submodule "sync.js"]
+	path = sync.js
+	url = https://github.com/moul/sync.js.git
+[submodule "tapas"]
+	path = tapas
+	url = https://github.com/moul/tapas.git
+[submodule "tapas-icecast-analytics"]
+	path = tapas-icecast-analytics
+	url = https://github.com/moul/tapas-icecast-analytics.git
+[submodule "term.js-cli"]
+	path = term.js-cli
+	url = https://github.com/moul/term.js-cli.git
+[submodule "travis-docker"]
+	path = travis-docker
+	url = https://github.com/moul/travis-docker.git
+[submodule "triplie-ng"]
+	path = triplie-ng
+	url = https://github.com/moul/triplie-ng.git
+[submodule "trusted-cross-build"]
+	path = trusted-cross-build
+	url = https://github.com/moul/trusted-cross-build.git
+[submodule "ubukey"]
+	path = ubukey
+	url = https://github.com/moul/ubukey.git
+[submodule "visual_resume"]
+	path = visual_resume
+	url = https://github.com/moul/visual_resume.git
+[submodule "votejs"]
+	path = votejs
+	url = https://github.com/moul/votejs.git
+[submodule "whoisjs"]
+	path = whoisjs
+	url = https://github.com/moul/whoisjs.git
+[submodule "xbmc-remote-keyboard"]
+	path = xbmc-remote-keyboard
+	url = https://github.com/moul/xbmc-remote-keyboard.git
+[submodule "xz-utils-static-builder"]
+	path = xz-utils-static-builder
+	url = https://github.com/moul/xz-utils-static-builder.git
