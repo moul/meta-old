@@ -1,0 +1,186 @@
+[submodule "2014-12-12-c1-docker-epitech.key"]
+	path = 2014-12-12-c1-docker-epitech.key
+	url = https://github.com/moul/2014-12-12-c1-docker-epitech.key.git
+[submodule "3d-stereo-html5"]
+	path = 3d-stereo-html5
+	url = https://github.com/moul/3d-stereo-html5.git
+[submodule "advanced-csrf"]
+	path = advanced-csrf
+	url = https://github.com/moul/advanced-csrf.git
+[submodule "advanced-ssh-config"]
+	path = advanced-ssh-config
+	url = https://github.com/moul/advanced-ssh-config.git
+[submodule "alfred-workflow-boot2docker"]
+	path = alfred-workflow-boot2docker
+	url = https://github.com/moul/alfred-workflow-boot2docker.git
+[submodule "alfred-workflow-chromecast"]
+	path = alfred-workflow-chromecast
+	url = https://github.com/moul/alfred-workflow-chromecast.git
+[submodule "alfred-workflow-gauth"]
+	path = alfred-workflow-gauth
+	url = https://github.com/moul/alfred-workflow-gauth.git
+[submodule "alfred-workflow-pingport"]
+	path = alfred-workflow-pingport
+	url = https://github.com/moul/alfred-workflow-pingport.git
+[submodule "amiga-ball"]
+	path = amiga-ball
+	url = https://github.com/moul/amiga-ball.git
+[submodule "boot2docker"]
+	path = boot2docker
+	url = https://github.com/moul/boot2docker.git
+[submodule "boxes"]
+	path = boxes
+	url = https://github.com/moul/boxes.git
+[submodule "cloudfuse"]
+	path = cloudfuse
+	url = https://github.com/moul/cloudfuse.git
+[submodule "codehero"]
+	path = codehero
+	url = https://github.com/moul/codehero.git
+[submodule "connect-tcp"]
+	path = connect-tcp
+	url = https://github.com/moul/connect-tcp.git
+[submodule "ddcdnaas"]
+	path = ddcdnaas
+	url = https://github.com/moul/ddcdnaas.git
+[submodule "doc.cloud.online.net"]
+	path = doc.cloud.online.net
+	url = https://github.com/moul/doc.cloud.online.net.git
+[submodule "docker"]
+	path = docker
+	url = https://github.com/moul/docker.git
+[submodule "docker-android-builder"]
+	path = docker-android-builder
+	url = https://github.com/moul/docker-android-builder.git
+[submodule "docker-armhf-busybox"]
+	path = docker-armhf-busybox
+	url = https://github.com/moul/docker-armhf-busybox.git
+[submodule "docker-bitcoin"]
+	path = docker-bitcoin
+	url = https://github.com/moul/docker-bitcoin.git
+[submodule "docker-boinc"]
+	path = docker-boinc
+	url = https://github.com/moul/docker-boinc.git
+[submodule "docker-chromium-builder"]
+	path = docker-chromium-builder
+	url = https://github.com/moul/docker-chromium-builder.git
+[submodule "docker-debootstrap-builder"]
+	path = docker-debootstrap-builder
+	url = https://github.com/moul/docker-debootstrap-builder.git
+[submodule "docker-dracut"]
+	path = docker-dracut
+	url = https://github.com/moul/docker-dracut.git
+[submodule "docker-drupal"]
+	path = docker-drupal
+	url = https://github.com/moul/docker-drupal.git
+[submodule "docker-emacs"]
+	path = docker-emacs
+	url = https://github.com/moul/docker-emacs.git
+[submodule "docker-gdb"]
+	path = docker-gdb
+	url = https://github.com/moul/docker-gdb.git
+[submodule "docker-gen"]
+	path = docker-gen
+	url = https://github.com/moul/docker-gen.git
+[submodule "docker-icecast"]
+	path = docker-icecast
+	url = https://github.com/moul/docker-icecast.git
+[submodule "docker-john"]
+	path = docker-john
+	url = https://github.com/moul/docker-john.git
+[submodule "docker-kernel-builder"]
+	path = docker-kernel-builder
+	url = https://github.com/moul/docker-kernel-builder.git
+[submodule "docker-liquidsoap"]
+	path = docker-liquidsoap
+	url = https://github.com/moul/docker-liquidsoap.git
+[submodule "docker-nbd-volume"]
+	path = docker-nbd-volume
+	url = https://github.com/moul/docker-nbd-volume.git
+[submodule "docker-node"]
+	path = docker-node
+	url = https://github.com/moul/docker-node.git
+[submodule "docker-pelican"]
+	path = docker-pelican
+	url = https://github.com/moul/docker-pelican.git
+[submodule "docker-phoronix-test-suite"]
+	path = docker-phoronix-test-suite
+	url = https://github.com/moul/docker-phoronix-test-suite.git
+[submodule "docker-plan9port"]
+	path = docker-plan9port
+	url = https://github.com/moul/docker-plan9port.git
+[submodule "docker-python-dev"]
+	path = docker-python-dev
+	url = https://github.com/moul/docker-python-dev.git
+[submodule "docker-qemu-user"]
+	path = docker-qemu-user
+	url = https://github.com/moul/docker-qemu-user.git
+[submodule "docker-readthedocs"]
+	path = docker-readthedocs
+	url = https://github.com/moul/docker-readthedocs.git
+[submodule "docker-scapy"]
+	path = docker-scapy
+	url = https://github.com/moul/docker-scapy.git
+[submodule "docker-shellinabox"]
+	path = docker-shellinabox
+	url = https://github.com/moul/docker-shellinabox.git
+[submodule "docker-socat"]
+	path = docker-socat
+	url = https://github.com/moul/docker-socat.git
+[submodule "docker-sshd"]
+	path = docker-sshd
+	url = https://github.com/moul/docker-sshd.git
+[submodule "docker-strongloop"]
+	path = docker-strongloop
+	url = https://github.com/moul/docker-strongloop.git
+[submodule "docker-tmux"]
+	path = docker-tmux
+	url = https://github.com/moul/docker-tmux.git
+[submodule "docker-u-boot-tools"]
+	path = docker-u-boot-tools
+	url = https://github.com/moul/docker-u-boot-tools.git
+[submodule "docker-weechat"]
+	path = docker-weechat
+	url = https://github.com/moul/docker-weechat.git
+[submodule "docker-wowza"]
+	path = docker-wowza
+	url = https://github.com/moul/docker-wowza.git
+[submodule "docker-znc"]
+	path = docker-znc
+	url = https://github.com/moul/docker-znc.git
+[submodule "dockerfile-bug"]
+	path = dockerfile-bug
+	url = https://github.com/moul/dockerfile-bug.git
+[submodule "dockerfiles"]
+	path = dockerfiles
+	url = https://github.com/moul/dockerfiles.git
+[submodule "dockvpn"]
+	path = dockvpn
+	url = https://github.com/moul/dockvpn.git
+[submodule "domaintool"]
+	path = domaintool
+	url = https://github.com/moul/domaintool.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/moul/dotfiles.git
+[submodule "eve-mongoengine"]
+	path = eve-mongoengine
+	url = https://github.com/moul/eve-mongoengine.git
+[submodule "fig-mesos"]
+	path = fig-mesos
+	url = https://github.com/moul/fig-mesos.git
+[submodule "formage"]
+	path = formage
+	url = https://github.com/moul/formage.git
+[submodule "freebox-remote-keyboard"]
+	path = freebox-remote-keyboard
+	url = https://github.com/moul/freebox-remote-keyboard.git
+[submodule "ghfinger"]
+	path = ghfinger
+	url = https://github.com/moul/ghfinger.git
+[submodule "ghfinger-poc"]
+	path = ghfinger-poc
+	url = https://github.com/moul/ghfinger-poc.git
+[submodule "github-art"]
+	path = github-art
+	url = https://github.com/moul/github-art.git
