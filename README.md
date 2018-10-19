@@ -1,4 +1,7 @@
 # meta
+
+[![GuardRails badge](https://badges.production.guardrails.io/moul/meta.svg)](https://www.guardrails.io)
+
 POC: meta repository with submodules for each available repositories
 
 # commands
